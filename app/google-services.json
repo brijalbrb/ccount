@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "679482559946",
+    "firebase_url": "https://ccount-b385e.firebaseio.com",
+    "project_id": "ccount-b385e",
+    "storage_bucket": "ccount-b385e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679482559946:android:2a7a787ffd251221",
+        "android_client_info": {
+          "package_name": "com.y.ccount"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "679482559946-14q703ogsi0u4qclt2h4oijqoqjhl0nv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxXTOXgB8_L9fvaawVX1QiiRSzXXSYjXI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
